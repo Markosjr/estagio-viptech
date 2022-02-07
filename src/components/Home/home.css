@@ -92,5 +92,7 @@ span {
     display: flex;
     margin-left: 63em;
     margin-top: 15em;
+    padding: auto;
+    column-gap:20px;
     
 }
